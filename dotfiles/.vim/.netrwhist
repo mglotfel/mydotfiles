@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/amejia/gocode/src/github.com/Novetta/KLE/kleserver'
+let g:netrw_dirhist_2='/home/amejia/gocode/src/github.com/Novetta/KLE/kleweb'
+let g:netrw_dirhist_3='/home/amejia/gocode/src/github.com/Novetta/KLE/kleserver'
+let g:netrw_dirhist_4='/home/amejia/gocode/src/github.com/Novetta/KLE/kleweb'
